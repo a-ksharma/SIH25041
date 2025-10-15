@@ -1,0 +1,83 @@
+{
+  "Arabian Sea": {
+    "status": "ok",
+    "error": null,
+    "data": {
+      "location": {
+        "lat": 15.54,
+        "lon": 64.44
+      },
+      "weather": {
+        "avgtempc": 25.3,
+        "avgtempf": 77.5,
+        "avgviskm": 10,
+        "avgvismiles": 6,
+        "maxtempc": 25.5,
+        "maxtempf": 77.9,
+        "maxwindkph": 22.6,
+        "maxwindmph": 14,
+        "mintempc": 24.5,
+        "mintempf": 76.1,
+        "moonillumination": 27,
+        "moonphase": "Last Quarter",
+        "totalprecipin": 0,
+        "totalprecipmm": 0,
+        "totalsnowcm": 0
+      }
+    }
+  },
+  "Central Indian Ocean": {
+    "status": "ok",
+    "error": null,
+    "data": {
+      "location": {
+        "lat": -10,
+        "lon": 78
+      },
+      "weather": {
+        "avgtempc": 26,
+        "avgtempf": 78.8,
+        "avgviskm": 9.3,
+        "avgvismiles": 5,
+        "maxtempc": 26.3,
+        "maxtempf": 79.3,
+        "maxwindkph": 29.9,
+        "maxwindmph": 18.6,
+        "mintempc": 25.5,
+        "mintempf": 77.9,
+        "moonillumination": 27,
+        "moonphase": "Last Quarter",
+        "totalprecipin": 0.11,
+        "totalprecipmm": 2.86,
+        "totalsnowcm": 0
+      }
+    }
+  },
+  "Coast of Australia": {
+    "status": "ok",
+    "error": null,
+    "data": {
+      "location": {
+        "lat": -25.02,
+        "lon": 109.23
+      },
+      "weather": {
+        "avgtempc": 17.4,
+        "avgtempf": 63.2,
+        "avgviskm": 10,
+        "avgvismiles": 6,
+        "maxtempc": 17.7,
+        "maxtempf": 63.9,
+        "maxwindkph": 23.1,
+        "maxwindmph": 14.3,
+        "mintempc": 17.1,
+        "mintempf": 62.8,
+        "moonillumination": 27,
+        "moonphase": "Last Quarter",
+        "totalprecipin": 0.01,
+        "totalprecipmm": 0.27,
+        "totalsnowcm": 0
+      }
+    }
+  }
+}
